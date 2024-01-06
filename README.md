@@ -10,19 +10,19 @@ Date—5 Jan 2024 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
- Project Dashboard Link---https://drive.google.com/file/d/1oBDIaNj9C-Pjg289dur0Hs---g-UozNi/view?usp=sharing
+ Project Dashboard Link---https://public.tableau.com/app/profile/sumit.baviskar/viz/Tata_ProjectSubmission/Solution1
 
 
-Soultion 1 ---https://drive.google.com/file/d/15AD17pV_04vpQ-Qn-UKEjN5ihE1-NBWO/view?usp=sharing
+Soultion 1 ---https://public.tableau.com/app/profile/sumit.baviskar/viz/TataProject1_17044404080020/Solution1
 
 
-Soultion 2 ---https://drive.google.com/file/d/1eO_dcynRBvPHrzYhgTeGmg5LgLo7aVw7/view?usp=sharing
+Soultion 2 ---https://public.tableau.com/app/profile/sumit.baviskar/viz/TataProjects2/Solution2
 
 
-Soultion 3 ---https://drive.google.com/file/d/1rV3DkIYOH9qqd5vVfP8wUqVCusCawA-n/view?usp=sharing
+Soultion 3 ---https://public.tableau.com/app/profile/sumit.baviskar/viz/TataProject3/Solution3
 
 
-Soultion 4 ---https://drive.google.com/file/d/1-OvpfO5gAELy5SsohKEe6Q-NS9FIPgBI/view?usp=sharing
+Soultion 4 ---https://public.tableau.com/app/profile/sumit.baviskar/viz/Solutin4/Solution4
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
