@@ -27,14 +27,14 @@ Soultion 4 ---https://public.tableau.com/app/profile/sumit.baviskar/viz/Solutin4
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Dataset --- Online Retail 
+# Dataset --- Online Retail 
 
 Dr Daqing Chen, Director: Public Analytics group. chend '@' lsbu.ac.uk, School of Engineering, London South Bank University, London SE1 0AA, UK. 
 
 
 Data set Link--- https://www.kaggle.com/datasets/tunguz/online-retail 
 
-Tools- Tableau 
+# Tools- Tableau 
  
 So before performing tasks , we have to clean the data as per requirement. As the “data is new oil,but we cannot use it in raw form “ so we have to clean before use .So company’s CMO and CEO can take data driven decision. For company.  
 
@@ -46,7 +46,7 @@ For which I have used tableau filter for this task moving to the task 
 
 
  
-TASK 1 
+# TASK 1 
  
 The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year. 
 
@@ -56,7 +56,7 @@ Solution-—So as looking the first chart ,we can observe there is a spike in re
 
 
 
-TASK 2 
+# TASK 2 
  
 The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual. 
 
@@ -66,7 +66,7 @@ Solution-—the top 10 countries as per  revenue which are Netherland, Eire ,Au
 
 
  
-TASK 3 
+# TASK 3 
  
 The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products. 
 
@@ -76,7 +76,7 @@ Solution-—Frist of all , data has to been clean for NULL customer numbers, by 
 
 
  
-TASK 4 
+# TASK 4 
  
 The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities. 
 
