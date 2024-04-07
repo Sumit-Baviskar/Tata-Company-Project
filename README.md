@@ -2,13 +2,13 @@
 
 Data Visualisation: Empowering Business with Effective Insights(Micro internship)
 
-Tata Micro Internship 
+# Tata Micro Internship 
 Online Retail Data Mining 
 ------------------------------------------------------------------------------------------------------------------------------------------
-# Name-Sumit Baviskar  
+Name-Sumit Baviskar  
 
 
-# Date—5 Jan 2024 
+Date—5 Jan 2024 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
