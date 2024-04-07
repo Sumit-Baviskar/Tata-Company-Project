@@ -53,6 +53,7 @@ The CEO of the retail store is interested to view the time series of the revenue
 
 Solution-—So as looking the first chart ,we can observe there is a spike in revenue in month of September, October and November which can be due to Festival season like Halloween ,Thanksgiving and Christmas product sells . There is maintained average around remaining months . Only February , April and December which can be our future target month for more revenue opportunity. 
 
+![Solution1](https://github.com/Sumit-Baviskar/Tata-Company-Project/assets/153518735/3464b8c1-36a1-4e30-9350-8289db57d136)
 
 
 
@@ -63,6 +64,7 @@ The CMO is interested in viewing the top 10 countries which are generating the h
 Solution-—the top 10 countries as per  revenue which are Netherland, Eire ,Austria, Belgium, France, Germany, Japan, Spain, Switzerland and Sweden . As the requirement United kingdom is been removed from the list as it account more than 10% of and product sold revenue . As per quantity , Germany, France and Austria is leading in chart. This countries can be part of the future opportunity plans next year. 
 
 
+![Solution2](https://github.com/Sumit-Baviskar/Tata-Company-Project/assets/153518735/038a629d-88b4-40bf-b865-ab0add822ac6)
 
 
  
@@ -74,6 +76,7 @@ The CMO of the online retail store wants to view the information on the top 10 c
 Solution-—Frist of all , data has to been clean for NULL customer numbers, by observing the chart we can seen the top 10 customer are contributing to revenue to a extent we can target this customer so there can repurchase the goods or we can provide offer to this customer at the lower revenue months for more revenue. 
 
 
+![Solution3](https://github.com/Sumit-Baviskar/Tata-Company-Project/assets/153518735/3f0ab912-4238-468d-b41a-594b099f41ce)
 
  
 # TASK 4 
@@ -83,4 +86,11 @@ The CEO is looking to gain insights on the demand for their products. He wants t
  
 Solution-- As seen in map chart we can observe that , Europe has been the major customer of product of our company like Netherlands, Finland ,Sweden etc followed by Austrialia. But we can also Focus on North America had the product sold is less in this region . we have to form different plan for both regionfor more revenue opportunity
  
- 
+![Solution4](https://github.com/Sumit-Baviskar/Tata-Company-Project/assets/153518735/7c9fd2f9-a61f-4997-827b-aef8a5d5eba5)
+
+
+ 
+# Dashboard
+
+![DASHBOARD](https://github.com/Sumit-Baviskar/Tata-Company-Project/assets/153518735/fe64e482-86c7-4e53-a138-908651f2ab09)
+
