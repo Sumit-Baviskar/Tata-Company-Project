@@ -1,5 +1,4 @@
 # Tata-Company-Project (Data Visualisation: Empowering Business with Effective Insights)
-
 Data Visualisation: Empowering Business with Effective Insights(Micro internship)
 
 # Tata Micro Internship  Online Retail Data Mining 
@@ -15,7 +14,7 @@ Data Visualisation: Empowering Business with Effective Insights(Micro internship
 Dr Daqing Chen, Director: Public Analytics group. chend '@' lsbu.ac.uk, School of Engineering, London South Bank University, London SE1 0AA, UK. 
 
 
-Data set Link--- https://www.kaggle.com/datasets/tunguz/online-retail 
+**Data set Link**--- https://www.kaggle.com/datasets/tunguz/online-retail 
 
 # Tools- Tableau 
  
