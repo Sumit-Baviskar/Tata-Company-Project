@@ -1,5 +1,5 @@
 # Tata-Company-Project (Data Visualisation: Empowering Business with Effective Insights)
-Data Visualisation: Empowering Business with Effective Insights(Micro internship)
+**Data Visualisation: Empowering Business with Effective Insights (Micro internship)**
 
 # Tata Micro Internship  Online Retail Data Mining 
 ------------------------------------------------------------------------------------------------------------------------------------------
