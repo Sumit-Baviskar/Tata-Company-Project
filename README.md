@@ -2,7 +2,6 @@
 **Data Visualisation: Empowering Business with Effective Insights (Micro internship)**
 
 # Tata Micro Internship  Online Retail Data Mining 
-------------------------------------------------------------------------------------------------------------------------------------------
 
 # Dataset --- Online Retail 
 
