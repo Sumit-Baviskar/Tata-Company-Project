@@ -5,28 +5,10 @@ Data Visualisation: Empowering Business with Effective Insights(Micro internship
 # Tata Micro Internship 
 Online Retail Data Mining 
 ------------------------------------------------------------------------------------------------------------------------------------------
-Name-Sumit Baviskar  
+**Name-Sumit Baviskar**  
 
 
-Date—5 Jan 2024 
-
-------------------------------------------------------------------------------------------------------------------------------------------
-
- Project Dashboard Link---https://public.tableau.com/app/profile/sumit.baviskar/viz/Tata_ProjectSubmission/Solution1
-
-
-Soultion 1 ---https://public.tableau.com/app/profile/sumit.baviskar/viz/TataProject1_17044404080020/Solution1
-
-
-Soultion 2 ---https://public.tableau.com/app/profile/sumit.baviskar/viz/TataProjects2/Solution2
-
-
-Soultion 3 ---https://public.tableau.com/app/profile/sumit.baviskar/viz/TataProject3/Solution3
-
-
-Soultion 4 ---https://public.tableau.com/app/profile/sumit.baviskar/viz/Solutin4/Solution4
-
-------------------------------------------------------------------------------------------------------------------------------------------
+**Date—5 Jan 2024**
 
 
 # Dataset --- Online Retail 
@@ -44,12 +26,11 @@ There was 2 requirement--
 Create a check that the quantity should not be below 1 unit 
 Create a check that the Unit price should not be below $0 
 
-For which I have used tableau filter for this task moving to the task 
+For which I have used tableau filter for this task moving to the task. Now as the data is clean we can start our data analysis part in this project 
 
 
  
-# TASK 1 
- 
+# TASK 1 **(Monthly revenue of 2011)**
 The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year. 
 
 
@@ -59,7 +40,7 @@ Solution-—So as looking the first chart ,we can observe there is a spike in re
 
 
 
-# TASK 2 
+# TASK 2 **(Top 10 countries by revenue)**
  
 The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual. 
 
@@ -70,7 +51,7 @@ Solution-—the top 10 countries as per  revenue which are Netherland, Eire ,Au
 
 
  
-# TASK 3 
+# TASK 3 **(Top 10 custoemrs by revenue)**
  
 The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products. 
 
@@ -81,7 +62,7 @@ Solution-—Frist of all , data has to been clean for NULL customer numbers, by 
 ![Solution3](https://github.com/Sumit-Baviskar/Tata-Company-Project/assets/153518735/3f0ab912-4238-468d-b41a-594b099f41ce)
 
  
-# TASK 4 
+# TASK 4 **(Map distribution by count of customer per country)**
  
 The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities. 
 
@@ -96,3 +77,22 @@ Solution-- As seen in map chart we can observe that , Europe has been the major 
 
 ![DASHBOARD](https://github.com/Sumit-Baviskar/Tata-Company-Project/assets/153518735/fe64e482-86c7-4e53-a138-908651f2ab09)
 
+
+# SOLUTION LINKS
+------------------------------------------------------------------------------------------------------------------------------------------
+
+ Project Dashboard Link---https://public.tableau.com/app/profile/sumit.baviskar/viz/Tata_ProjectSubmission/Solution1
+
+
+Soultion 1 ---https://public.tableau.com/app/profile/sumit.baviskar/viz/TataProject1_17044404080020/Solution1
+
+
+Soultion 2 ---https://public.tableau.com/app/profile/sumit.baviskar/viz/TataProjects2/Solution2
+
+
+Soultion 3 ---https://public.tableau.com/app/profile/sumit.baviskar/viz/TataProject3/Solution3
+
+
+Soultion 4 ---https://public.tableau.com/app/profile/sumit.baviskar/viz/Solutin4/Solution4
+
+------------------------------------------------------------------------------------------------------------------------------------------
