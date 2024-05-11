@@ -1,4 +1,4 @@
-# :chart_with_upwards_trend:  # Tata-Company-Project (Data Visualisation: Empowering Business with Effective Insights) # :chart_with_upwards_trend:
+# :chart_with_upwards_trend:   Tata-Company-Project (Data Visualisation: Empowering Business with Effective Insights)  :chart_with_upwards_trend:
 **Data Visualisation: Empowering Business with Effective Insights (Micro internship)**
 
 # Tata Micro Internship  Online Retail Data Mining 
@@ -10,7 +10,7 @@ Dr Daqing Chen, Director: Public Analytics group. chend '@' lsbu.ac.uk, School o
 
 :link:     **Data set Link---https://www.kaggle.com/datasets/tunguz/online-retail**
 
-# :chart_with_upwards_trend: # **Tools- Tableau** # :chart_with_upwards_trend:
+# :chart_with_upwards_trend:  **Tools- Tableau**  :chart_with_upwards_trend:
  
 So before performing tasks , we have to clean the data as per requirement. As the “data is new oil,but we cannot use it in raw form “ so we have to clean before use .So company’s CMO and CEO can take data driven decision for company.  
 
