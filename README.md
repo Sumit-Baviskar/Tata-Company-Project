@@ -49,7 +49,7 @@ the top 10 countries as per  revenue which are Netherland, Eire ,Austria, Belgi
 
 
  
-# :paperclip: TASK 3 **(Top 10 custoemrs by revenue)**
+# :paperclip: TASK 3 **(Top 10 customers by revenue)**
  
 The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products. 
 
