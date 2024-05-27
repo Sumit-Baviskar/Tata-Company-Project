@@ -48,6 +48,9 @@ The chart illustrates the monthly revenue for the retail store during the year 2
 
 By digging deeper into the underlying causes of these trends, the CEO can better plan for the upcoming year, leveraging high-revenue periods and addressing low-revenue months with targeted strategies.
 
+**Soultion 1 ---** https://public.tableau.com/app/profile/sumit.baviskar/viz/TataProject1_17044404080020/Solution1
+
+
 ![Solution1](https://github.com/Sumit-Baviskar/Tata-Company-Project/assets/153518735/3464b8c1-36a1-4e30-9350-8289db57d136)
 
 
@@ -112,6 +115,9 @@ The bar chart displays the top 10 countries that generated the highest revenue f
 By focusing on these key markets and understanding the dynamics of revenue and quantity sold, the CMO can develop targeted marketing and sales strategies to maximize revenue growth while addressing market-specific needs.
 
 
+**Soultion 2 ---** https://public.tableau.com/app/profile/sumit.baviskar/viz/TataProjects2/Solution2
+
+
 ![Solution2](https://github.com/Sumit-Baviskar/Tata-Company-Project/assets/153518735/038a629d-88b4-40bf-b865-ab0add822ac6)
 
 
@@ -124,6 +130,9 @@ The CMO of the online retail store wants to view the information on the top 10 c
 **Solution-—** Frist of all , data has to been clean for NULL customer numbers, by observing the chart we can seen the top 10 customer are contributing to revenue to a extent we can target this customer so there can repurchase the goods or we can provide offer to this customer at the lower revenue months for more revenue. 
 
 
+**Soultion 3 ---** https://public.tableau.com/app/profile/sumit.baviskar/viz/TataProject3/Solution3
+
+
 ![Solution3](https://github.com/Sumit-Baviskar/Tata-Company-Project/assets/153518735/3f0ab912-4238-468d-b41a-594b099f41ce)
 
  
@@ -133,12 +142,20 @@ The CEO is looking to gain insights on the demand for their products. He wants t
 
  
 **Solution--** As seen in map chart we can observe that , Europe has been the major customer of product of our company like Netherlands, Finland ,Sweden etc followed by Austrialia. But we can also Focus on North America had the product sold is less in this region . we have to form different plan for both regionfor more revenue opportunity
- 
+
+ 
+**Soultion 4 ---** https://public.tableau.com/app/profile/sumit.baviskar/viz/Solutin4/Solution4
+
+
 ![Solution4](https://github.com/Sumit-Baviskar/Tata-Company-Project/assets/153518735/7c9fd2f9-a61f-4997-827b-aef8a5d5eba5)
 
 
  
 # :paperclip: Overall Sales and Revenue Dashboard 
+
+
+**Project Dashboard Link---** https://public.tableau.com/app/profile/sumit.baviskar/viz/Tata_ProjectSubmission/Solution1
+
 
 ![DASHBOARD](https://github.com/Sumit-Baviskar/Tata-Company-Project/assets/153518735/fe64e482-86c7-4e53-a138-908651f2ab09)
 
