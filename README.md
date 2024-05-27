@@ -23,10 +23,10 @@ For which I have used tableau filter for this task moving to the task. Now as th
 
  
 # :paperclip: TASK 1 **(Monthly revenue of 2011)**
-The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year. 
+**The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.**
 
 
-**Solution-—** 
+## Solution 
 
 
 ### Time Series Analysis of Revenue Data for 2011
@@ -57,9 +57,9 @@ By digging deeper into the underlying causes of these trends, the CEO can better
 
 # :paperclip: TASK 2 **(Top 10 countries by revenue)**
  
-The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual. 
+**The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual.** 
 
-**Solution-—** 
+## Solution
 
 ### Top 10 Countries by Revenue (Excluding the United Kingdom)
 
@@ -124,11 +124,81 @@ By focusing on these key markets and understanding the dynamics of revenue and q
  
 # :paperclip: TASK 3 **(Top 10 customers by revenue)**
  
-The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products. 
+**The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.** 
 
 
-**Solution-—** Frist of all , data has to been clean for NULL customer numbers, by observing the chart we can seen the top 10 customer are contributing to revenue to a extent we can target this customer so there can repurchase the goods or we can provide offer to this customer at the lower revenue months for more revenue. 
+## Solution 
+As per the bar chart that visualizes the top 10 customers by revenue for an online retail store. The chart is sorted in descending order, with the highest revenue-generating customer on the left and the lowest on the right. Here is a summary of the information:
 
+
+Customer ID 14646: $279,489
+
+
+Customer ID 18102: $256,438
+
+
+Customer ID 17450: $187,482
+
+
+Customer ID 14911: $132,573
+
+
+Customer ID 12415: $123,725
+
+
+Customer ID 14156: $113,384
+
+
+Customer ID 17511: $88,125
+
+
+Customer ID 16684: $65,892
+
+
+Customer ID 13694: $62,653
+
+
+Customer ID 15311: $59,419
+
+
+The CMO can use this visual to identify the top revenue-generating customers and focus on strategies to ensure their satisfaction and retention. The chart clearly shows the revenue contribution of each customer, making it easier to prioritize efforts.
+
+To ensure the satisfaction of top revenue-generating customers, the CMO can implement the following strategies:
+
+1. **Personalized Communication and Engagement**:
+   - Assign dedicated account managers.
+   - Schedule regular check-ins.
+   - Provide exclusive updates on new products and offers.
+
+2. **Customized Offers and Discounts**:
+   - Develop loyalty programs with exclusive discounts and rewards.
+   - Create tailored promotions based on purchasing habits.
+
+3. **Enhanced Customer Support**:
+   - Offer priority support with faster response times.
+   - Proactively resolve any issues with their orders.
+
+4. **Value-Added Services**:
+   - Provide product customization options.
+   - Offer free upgrades and add-ons as appreciation tokens.
+
+5. **Feedback and Improvement**:
+   - Regularly solicit feedback through surveys and forms.
+   - Invite top customers to participate in focus groups.
+
+6. **Exclusive Events and Experiences**:
+   - Organize VIP events and personalized experiences.
+   - Offer behind-the-scenes looks at product development.
+
+7. **Recognition and Appreciation**:
+   - Feature top customers in newsletters and social media.
+   - Send personalized thank you notes or gifts.
+
+8. **Data-Driven Insights**:
+   - Analyze purchase history to tailor future interactions.
+   - Use predictive analytics to anticipate and meet their needs.
+
+Implementing these strategies will help ensure top customers feel valued and satisfied, fostering loyalty and continued business growth.
 
 **Soultion 3 ---** https://public.tableau.com/app/profile/sumit.baviskar/viz/TataProject3/Solution3
 
@@ -138,10 +208,44 @@ The CMO of the online retail store wants to view the information on the top 10 c
  
 # :paperclip: TASK 4 **(Map distribution by count of customer per country)**
  
-The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities. 
+**The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.** 
 
  
-**Solution--** As seen in map chart we can observe that , Europe has been the major customer of product of our company like Netherlands, Finland ,Sweden etc followed by Austrialia. But we can also Focus on North America had the product sold is less in this region . we have to form different plan for both regionfor more revenue opportunity
+## Solution
+
+As seen in map chart we can observe that a world map highlighting the demand for products in various countries, excluding the United Kingdom. The map uses color coding and numerical values to represent the demand in different regions. Here is a summary of the regions with the greatest demand:
+
+Australia: 83,653
+
+
+United States: 2,763
+
+
+Germany: 16,787
+
+
+France: 4,719
+
+
+Netherlands: 5,224
+
+
+Canada: 1,034
+
+
+Brazil: 356
+
+
+Spain: 1,197
+
+
+Sweden: 1,066
+
+
+Belgium: 1,032
+
+
+These regions show significant demand for the company's products and present potential opportunities for expansion. The CEO can use this visual to identify high-demand areas and develop targeted expansion strategies to generate more business from these regions. The map provides a clear, single-view representation of the data, making it easy to identify key markets without the need to scroll or hover over data points. 
 
  
 **Soultion 4 ---** https://public.tableau.com/app/profile/sumit.baviskar/viz/Solutin4/Solution4
