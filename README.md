@@ -28,8 +28,26 @@ The CEO of the retail store is interested to view the time series of the revenue
 
 **Solution-—** 
 
+Based on the provided image, here is a summary of the time series analysis of revenue data for the year 2011:
 
-So as looking the first chart ,we can observe there is a spike in revenue in month of September, October and November which can be due to Festival season like Halloween ,Thanksgiving and Christmas product sells . There is maintained average around remaining months . Only February , April and December which can be our future target month for more revenue opportunity. 
+### Time Series Analysis of Revenue Data for 2011
+
+#### Summary:
+The chart illustrates the monthly revenue for the retail store during the year 2011. The data shows significant seasonal trends with notable fluctuations in revenue across different months.
+
+#### Key Observations:
+1. **Initial Decline**: The year started with a moderate revenue of around 691,365 units in January, followed by a decline to 523,632 units in February.
+2. **Steady Increase**: There was a steady increase in revenue from March (717,639 units) to June (761,740 units).
+3. **Mid-Year Stability**: July and August showed relatively stable revenue figures, with slight decreases to 719,221 units and 759,138 units respectively.
+4. **Sharp Increase in Autumn**: A significant increase in revenue occurred from September (1,058,590 units) to October, peaking at 1,509,496 units in October.
+5. **End-of-Year Drop**: The revenue saw a sharp decline in November to 1,154,979 units, followed by a further decrease in December to 638,793 units.
+
+#### Insights:
+- **Seasonal Trends**: The sharp increase in revenue during September and October may be attributed to seasonal factors such as holiday preparations or promotional events.
+- **Forecasting**: These trends can help in forecasting future revenues by identifying peak months and preparing strategies to optimize sales during high-revenue periods.
+- **Strategic Planning**: Understanding the reasons behind the mid-year stability and the sharp autumn increase can inform strategic decisions, such as inventory management, marketing campaigns, and staffing.
+
+By digging deeper into the underlying causes of these trends, the CEO can better plan for the upcoming year, leveraging high-revenue periods and addressing low-revenue months with targeted strategies.
 
 ![Solution1](https://github.com/Sumit-Baviskar/Tata-Company-Project/assets/153518735/3464b8c1-36a1-4e30-9350-8289db57d136)
 
@@ -41,8 +59,60 @@ The CMO is interested in viewing the top 10 countries which are generating the h
 
 **Solution-—** 
 
+Based on the provided image, here is a summary of the top 10 countries generating the highest revenue (excluding the United Kingdom) along with the quantity sold:
 
-the top 10 countries as per  revenue which are Netherland, Eire ,Austria, Belgium, France, Germany, Japan, Spain, Switzerland and Sweden . As the requirement United kingdom is been removed from the list as it account more than 10% of and product sold revenue . As per quantity , Germany, France and Austria is leading in chart. This countries can be part of the future opportunity plans next year. 
+### Top 10 Countries by Revenue (Excluding the United Kingdom)
+
+#### Summary:
+The bar chart displays the top 10 countries that generated the highest revenue for the retail store. It also includes the quantity of items sold in each country, providing a comprehensive view of both revenue and sales volume.
+
+#### Key Observations:
+1. **Netherlands**:
+   - Revenue: 286,421 units
+   - Quantity: 20,284 items
+
+2. **EIRE (Ireland)**:
+   - Revenue: 288,544 units
+   - Quantity: 147,272 items
+
+3. **Germany**:
+   - Revenue: 221,705 units
+   - Quantity: 27,405 items
+
+4. **France**:
+   - Revenue: 209,065 units
+   - Quantity: 112,043 items
+
+5. **Australia**:
+   - Revenue: 138,417 units
+   - Quantity: 62,943 items
+
+6. **Switzerland**:
+   - Revenue: 133,989 units
+   - Quantity: 28,643 items
+
+7. **Spain**:
+   - Revenue: 106,238 units
+   - Quantity: 27,918 items
+
+8. **Belgium**:
+   - Revenue: 94,693 units
+   - Quantity: 41,546 items
+
+9. **Sweden**:
+   - Revenue: 85,009 units
+   - Quantity: 39,378 items
+
+10. **Japan**:
+    - Revenue: 92,050 units
+    - Quantity: 13,248 items
+
+#### Insights:
+- **High Revenue and Quantity**: EIRE and Netherlands stand out with the highest revenue and significant quantities sold, indicating strong markets.
+- **Revenue vs. Quantity**: Some countries like Germany and France have a high revenue but relatively lower quantities sold, suggesting higher unit prices or premium product sales.
+- **Market Potential**: Countries with high quantities but lower revenues, such as Belgium and Sweden, might offer potential for pricing strategy adjustments to increase revenue.
+
+By focusing on these key markets and understanding the dynamics of revenue and quantity sold, the CMO can develop targeted marketing and sales strategies to maximize revenue growth while addressing market-specific needs.
 
 
 ![Solution2](https://github.com/Sumit-Baviskar/Tata-Company-Project/assets/153518735/038a629d-88b4-40bf-b865-ab0add822ac6)
