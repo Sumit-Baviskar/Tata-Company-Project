@@ -28,7 +28,6 @@ The CEO of the retail store is interested to view the time series of the revenue
 
 **Solution-—** 
 
-Based on the provided image, here is a summary of the time series analysis of revenue data for the year 2011:
 
 ### Time Series Analysis of Revenue Data for 2011
 
@@ -58,8 +57,6 @@ By digging deeper into the underlying causes of these trends, the CEO can better
 The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual. 
 
 **Solution-—** 
-
-Based on the provided image, here is a summary of the top 10 countries generating the highest revenue (excluding the United Kingdom) along with the quantity sold:
 
 ### Top 10 Countries by Revenue (Excluding the United Kingdom)
 
