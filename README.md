@@ -20,7 +20,7 @@ The online retail store is aiming to enhance its strategic decision-making throu
 4. **Demand Distribution by Country (CEO)**:  
    The CEO wants to view a geographical distribution of customer demand across all countries (excluding the United Kingdom). This visualization will help the CEO identify regions with high demand, which will inform the company’s expansion strategy and decision-making process regarding targeting these markets.
 
----
+
 
 # **Objectives :**
 
@@ -83,12 +83,20 @@ The chart illustrates the monthly revenue for the retail store during the year 2
 
 By digging deeper into the underlying causes of these trends, the CEO can better plan for the upcoming year, leveraging high-revenue periods and addressing low-revenue months with targeted strategies.
 
+---
+
+# Power BI Task 1 Graph : 
+
+![Image](https://github.com/user-attachments/assets/81d06045-ba7a-44ec-aaa4-85a0e9938f00)
+
+
+# Tableau Task 1 Graph : 
 **Soultion 1 ---** https://public.tableau.com/app/profile/sumit.baviskar/viz/TataProject1_17044404080020/Solution1
 
 
 ![Solution1](https://github.com/Sumit-Baviskar/Tata-Company-Project/assets/153518735/3464b8c1-36a1-4e30-9350-8289db57d136)
 
-
+---
 
 # :paperclip: TASK 2 **(Top 10 countries by revenue)**
  
@@ -149,13 +157,20 @@ The bar chart displays the top 10 countries that generated the highest revenue f
 
 By focusing on these key markets and understanding the dynamics of revenue and quantity sold, the CMO can develop targeted marketing and sales strategies to maximize revenue growth while addressing market-specific needs.
 
+---
 
+# Power BI Task 2 Graph : 
+
+![Image](https://github.com/user-attachments/assets/992f2d5c-6dec-4d25-91df-32727956b500)
+
+
+# Tableau Task 2 Graph : 
 **Soultion 2 ---** https://public.tableau.com/app/profile/sumit.baviskar/viz/TataProjects2/Solution2
 
 
 ![Solution2](https://github.com/Sumit-Baviskar/Tata-Company-Project/assets/153518735/038a629d-88b4-40bf-b865-ab0add822ac6)
 
-
+---
  
 # :paperclip: TASK 3 **(Top 10 customers by revenue)**
  
@@ -235,11 +250,19 @@ To ensure the satisfaction of top revenue-generating customers, the CMO can impl
 
 Implementing these strategies will help ensure top customers feel valued and satisfied, fostering loyalty and continued business growth.
 
+--- 
+# Power BI Task 3 Graph : 
+
+![Image](https://github.com/user-attachments/assets/38f6b1c4-dff8-451c-8f45-2af11ce4eef4)
+
+# Tableau Task 3 Graph : 
+
 **Soultion 3 ---** https://public.tableau.com/app/profile/sumit.baviskar/viz/TataProject3/Solution3
 
 
 ![Solution3](https://github.com/Sumit-Baviskar/Tata-Company-Project/assets/153518735/3f0ab912-4238-468d-b41a-594b099f41ce)
 
+---
  
 # :paperclip: TASK 4 **(Map distribution by count of customer per country)**
  
@@ -282,18 +305,28 @@ Belgium: 1,032
 
 These regions show significant demand for the company's products and present potential opportunities for expansion. The CEO can use this visual to identify high-demand areas and develop targeted expansion strategies to generate more business from these regions. The map provides a clear, single-view representation of the data, making it easy to identify key markets without the need to scroll or hover over data points. 
 
+----
+
+# Power BI Task 4 Graph :
+
+ ![Image](https://github.com/user-attachments/assets/1751e7e2-64aa-463f-8d05-61684c64fa23)
  
+# Tableau Task 4 Graph :
 **Soultion 4 ---** https://public.tableau.com/app/profile/sumit.baviskar/viz/Solutin4/Solution4
 
 
 ![Solution4](https://github.com/Sumit-Baviskar/Tata-Company-Project/assets/153518735/7c9fd2f9-a61f-4997-827b-aef8a5d5eba5)
 
+------
 
  
 # :paperclip: Overall Sales and Revenue Dashboard 
 
+**Power BI Project Dashboard :**
+![Image](https://github.com/user-attachments/assets/bb089f6d-d23b-4a63-baf1-fd7c60d1ef67)
 
-**Project Dashboard Link---** https://public.tableau.com/app/profile/sumit.baviskar/viz/Tata_ProjectSubmission/Solution1
+
+**Project Dashboard (Tableau)Link---** https://public.tableau.com/app/profile/sumit.baviskar/viz/Tata_ProjectSubmission/Solution1
 
 
 ![DASHBOARD](https://github.com/Sumit-Baviskar/Tata-Company-Project/assets/153518735/fe64e482-86c7-4e53-a138-908651f2ab09)
